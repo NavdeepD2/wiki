@@ -1,0 +1,32 @@
+# How to Delete Zimbra Emails in Bulk Date Wise
+
+Open Zimbra Admin -> https://x.x.x.x:7071/zimbraAdmin/
+
+Go to Manage (on left side)
+
+Search Email account (on right top corner)
+
+Right click on Email address -> View Mail
+
+Click on Search Magnifier
+
+For e.g (1) You want to delete all Mails from beginning to till 30th April
+
+In Advance Filter -> Date Sent ... -> is before .. -> 30th April
+
+Now in center panel you have all the mails till 30th April.
+
+Do a left Click on any one mail, then Press Ctrl+Shift+A  , then Click on Delete Button.
+
+
+For e.g (2) You want to delete all Mails from after 1st June
+
+In Advance Filter -> Date Sent ... -> is after .. -> 1st June
+
+Now in center panel you have all the Mails from after 1st June
+
+Do a left Click on any one mail, then Press Ctrl+Shift+A  , then Click on Delete Button.
+
+After you are done doing that, Empty the Trash.
+
+Note:- It may take a while to delete mails and refelect the disk usage, So be patient.
