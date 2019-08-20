@@ -12,4 +12,4 @@ enscript -p output.ps imtextfile.txt
 
 ps2pdf output.ps imtextfile.pdf
 
-# Link to website :- http://the-d2.com/2018/07/how-to-convert-text-to-pdf-in-linux/
+# Link to website :- https://the-d2.com/how-to-convert-text-to-pdf-in-linux/
